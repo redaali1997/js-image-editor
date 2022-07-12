@@ -160,3 +160,5 @@ saveButton.addEventListener('click', () => {
         link.click()
     }
 })
+
+previewImg.addEventListener('click', () => chooseImageBtn.click())
